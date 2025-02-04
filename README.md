@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 yo soy Sofia
+----------------------------------------------------------------------------------------------------------------------
+Mi nombre es Laura Sofía  Jimena Herrera, soy estudiante de la facultad de bioingeniería ⚗️🧫 en la universidad Santo Tomás, tengo 18 años🙂, soy sagitario♐, me gustan los gatos🐈 y los perros🐕, mi color favorito es el verde esmeralda💚, me gustan mucho las series y las peliculas📽️,mi deporte favorito es el voleybol🏐, mi comida favorita es la lasaña🍝....
+---------------------------------------------------------------------------------------------------------------------------------------
 
 <!--
 **sofiajh/sofiajh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
